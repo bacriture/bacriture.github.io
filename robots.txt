@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://bacriture.github.io/sitemap.html.gz
+Sitemap: https://bacriture.github.io/app/sitemap.html.gz
+Sitemap: https://bacriture.github.io/assets/sitemap.html.gz
+Sitemap: https://bacriture.github.io/css/sitemap.html.gz
+Sitemap: https://bacriture.github.io/includes/sitemap.html.gz
+Sitemap: https://bacriture.github.io/item/sitemap.html.gz
+Sitemap: https://bacriture.github.io/src/sitemap.html.gz
